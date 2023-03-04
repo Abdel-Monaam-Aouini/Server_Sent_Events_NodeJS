@@ -2,6 +2,6 @@
 version: 2
 updates:
   - package-ecosystem: 'npm'
-    directory: '/client/'
+    directory: './client/'
     schedule:
       interval: 'daily'
